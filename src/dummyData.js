@@ -1,38 +1,32 @@
 export const Users = [
   {
     id: 1,
-    profilePhoto:
-      "https://cdn.pixabay.com/photo/2019/11/28/09/25/water-4658769__340.jpg",
+    profilePhoto: "",
     username: "Chepkwony Kelvine",
   },
   {
     id: 2,
-    profilePhoto:
-      "https://cdn.pixabay.com/photo/2017/08/10/03/47/guy-2617866__340.jpg",
+    profilePhoto: "",
     username: "Kerry Wanagamati",
   },
   {
     id: 3,
-    profilePhoto:
-      "https://cdn.pixabay.com/photo/2015/06/19/09/39/lonely-814631__340.jpg",
+    profilePhoto: "",
     username: "Victor Njung'e",
   },
   {
     id: 4,
-    profilePhoto:
-      "https://cdn.pixabay.com/photo/2016/03/12/23/18/man-1253004__340.jpg",
+    profilePhoto: "",
     username: "Juliet Kathuke",
   },
   {
     id: 5,
-    profilePhoto:
-      "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358__340.jpg",
+    profilePhoto: "",
     username: "Mutai Abbigael",
   },
   {
     id: 6,
-    profilePhoto:
-      "https://cdn.pixabay.com/photo/2016/01/19/17/57/car-1149997__340.jpg",
+    profilePhoto: "",
     username: "Joan Kirui",
   },
 ];
